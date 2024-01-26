@@ -1,0 +1,12 @@
+GET http://localhost:3000/noticias
+
+###
+POST http://localhost:3000/noticias
+Content-Type: application/json
+{
+ index:90,
+            
+        }
+
+
+
